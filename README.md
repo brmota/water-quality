@@ -1,8 +1,8 @@
 # 💧 Maryland Water Quality
 
 This project analyzes water quality data collected from monitoring stations across Maryland, sourced from the National Water Quality Monitoring Council. The project applies data science, data engineering, and chemistry expertise to identify trends, assess data quality, and ensure regulatory compliance.
- 
-In addition to data analysis, I have developed two in-depth tutorials focused on Quality Assurance Project Plan (QAPP) Development, and Audits & Assessments,aligning with EPA guidelines for environmental data quality management.
+
+In addition to data analysis, I have developed two in-depth tutorials on Quality Assurance Project Plan (QAPP) development and Audits & Assessments, aligning with EPA guidelines for environmental data quality management.
 
 #### ✔ Project Objectives:
 
