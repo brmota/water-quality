@@ -2,7 +2,7 @@
 
 This project analyzes water quality data collected from monitoring stations across Maryland, sourced from the National Water Quality Monitoring Council. The project applies data science, data engineering, and chemistry expertise to identify trends, assess data quality, and ensure regulatory compliance.
  
-In addition to data analysis, I have developed three in-depth tutorials focused on Quality Assurance Project Plan (QAPP) Development, Audits & Assessments, and Advanced QAPP Implementation, aligning with EPA guidelines for environmental data quality management.
+In addition to data analysis, I have developed two in-depth tutorials focused on Quality Assurance Project Plan (QAPP) Development, and Audits & Assessments,aligning with EPA guidelines for environmental data quality management.
 
 #### ✔ Project Objectives:
 
@@ -12,8 +12,19 @@ In addition to data analysis, I have developed three in-depth tutorials focused 
 - Create Interactive Dashboards in Tableau for data-driven decision-making.
 - Provide Actionable Insights for environmental monitoring and policy planning.
 
-<img src="images/qapp_tutorial_preview.png" alt="drawing" width="200"/>
-<img src="images/audit_tutorial_preview.png" alt="drawing" width="200"/>
+
+#### 🧑🏾‍🏫 Presentation Preview:  
+
+<div style="display:flex; align-items: center;">
+    <div style="flex:1">
+        <img style="display: block; margin: 0px 0px 35px 70px;" src="images/qapp_tutorial_preview.png" alt="drawing" width="350"/>
+    </div>
+    <div style="flex:1">
+        <img style="display: block; margin: 0px 35px 35px 0px;" src="images/audit_tutorial_preview.png" alt="drawing" width="350"/> 
+    </div>
+</div>
+
+
 
 This project highlights expertise in environmental data analysis, statistical modeling, data visualization, regulatory compliance, and data quality assurance, enhanced by educational resources that guide professionals in implementing data governance best practices.
 
