@@ -12,8 +12,8 @@ In addition to data analysis, I have developed three in-depth tutorials focused 
 - Create Interactive Dashboards in Tableau for data-driven decision-making.
 - Provide Actionable Insights for environmental monitoring and policy planning.
 
-![QAPP Tutorial](images/qapp_tutorial_preview.png)
-![Audit Tutorial](images/audit_tutorial_preview.png)
+![QAPP Tutorial](images/qapp_tutorial_preview.png =200x150)
+![Audit Tutorial](images/audit_tutorial_preview.png =200x150)
 
 This project highlights expertise in environmental data analysis, statistical modeling, data visualization, regulatory compliance, and data quality assurance, enhanced by educational resources that guide professionals in implementing data governance best practices.
 
