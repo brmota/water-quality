@@ -103,11 +103,11 @@ Water Temperature – Affects metabolic rates, growth, and survival of aquatic o
 - Apply weighted averages or normalize data based on sample counts to avoid overrepresenting sites with limited data.
 
 ### How to Run the Project
-1. [Load Raw Data (optional)](scripts/load_raw_data.py)
-2. [Extract](scripts/extract_md_water_quality_data.R)
+1. [Extract Data from Webssite](scripts/extract_md_water_quality_data.R)
+2. [Load Raw Data (optional)](scripts/load_raw_data.py)
 3. [Exploratory Data Analysis (EDA)](notebooks/exploratory_data_analysis.ipynb)
-4. [Transform](scripts/transform_raw_data.py)
-5. [Load](scripts/load_transformed_data.py)
+4. [Transform Raw Data](scripts/transform_raw_data.py)
+5. [Load Transformed Data](scripts/load_transformed_data.py)
 6. [Export to Tableau](scripts/export_for_tableau.py)
 7. [Analyze / Visualize](tableau/md_water_quality.twbx) 
 
